@@ -1,0 +1,15 @@
+﻿  AbstrSynTree.cpp
+  FileMgr.cpp
+  FileSystem.cpp
+  GrammarHelpers.cpp
+  Logger.cpp
+  ActionsAndRules.cpp
+  ConfigureParser.cpp
+  Parser.cpp
+  ScopeStack.cpp
+  SemiExp.cpp
+  Tokenizer.cpp
+  Utilities.cpp
+  Executive.cpp
+  Generating Code...
+  Executive.vcxproj -> E:\Sachin\Sachin-Subjects\Spring17\OOD\Projects\Project3\Sachin_Project3\CodePublisher\x64\Debug\CodeAnalyzer.lib

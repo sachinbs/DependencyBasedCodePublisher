@@ -1,0 +1,4 @@
+﻿  Window.cpp
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  Window.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  GUI.vcxproj -> E:\Sachin\Sachin-Subjects\Spring17\OOD\Projects\Project3\Sachin_Project3\CodePublisher\x64\Debug\VisualCodeAnalyzer.exe

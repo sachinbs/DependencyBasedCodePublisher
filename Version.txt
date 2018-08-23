@@ -1,0 +1,55 @@
+CodePublisher_basic_req_28_Mar_11_59: Finished Basic Requirements
+CodePublisher_bonus_29_Mar_01_03: Finished Basic Requirements
+								  Added code for bonus points
+CodePublisher_bonus_29_Mar_01_59: Finished Basic Requirements
+								  Added code for bonus points
+								  Restructuring of the code
+CodePublisher_31_Mar_10_00: Finished Basic Requirements
+							Added code for bonus points
+							Restructuring of the code
+							Changed project name
+CodePublisher_31_Mar_10_38: Finished Basic Requirements
+							Added code for bonus points
+							Restructuring of the code
+							Changed project name
+							Changed function names
+CodePublisher_31_Mar_12_22: Finished Basic Requirements
+							Added code for bonus points
+							Restructuring of the code
+							Changed project name
+							Changed function names
+							Created new functions for Head and Body of HTML file
+CodePublisher_31_Mar_04_00: Finished Basic Requirements
+							Added code for bonus points
+							Restructuring of the code
+							Changed project name
+							Changed function names
+							Created new functions for Head and Body of HTML file
+							Added code to create directory (HTML) of htmls (in Test_Executive package), Linked .js and .css files (to be placed in HTML dir)
+CodePublisher_31_Mar_18_32: Finished Basic Requirements
+							Added code for bonus points
+							Restructuring of the code
+							Changed project name
+							Changed function names
+							Created new functions for Head and Body of HTML file
+							Added code to create directory (HTML) of htmls (in Test_Executive package), Linked .js and .css files (Created new directories in the project for these)
+							Changed few directory names in the project
+CodePublisher_01_Apr_10_19: Finished Basic Requirements
+							Added code for bonus points
+							Restructuring of the code
+							Changed project name
+							Changed function names
+							Created new functions for Head and Body of HTML file
+							Added code to create directory (HTML) of htmls (in Test_Executive package), Linked .js and .css files (Created new directories in the project for these)
+								-Working from VS Command prompt, not from VS IDE
+							Changed Dependency_Table directory name in the project.
+CodePublisher_01_Apr_17_30: Finished Basic Requirements
+							Added code for bonus points
+							Restructuring of the code
+							Changed project name
+							Changed function names
+							Created new functions for Head and Body of HTML file
+							Added code to create directory (HTML) of htmls (in Test_Executive package), Linked .js and .css files (Created new directories in the project for these)
+								-Working from VS Command prompt, not from VS IDE
+							Changed Dependency_Table directory name in the project.
+							Modified prologue section for the changes
