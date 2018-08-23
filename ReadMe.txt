@@ -1,3 +1,11 @@
+# DependencyBasedCodePublisher
+A tool that publishes source code files as web pages with embedded child links. Each link refers to a code file that the displayed code file depends on
+
+    The code publisher is embedded in a repository which supports publishing of source code as web pages
+    Generates HTML files for each of the C++ source code files which captures the content of the source file
+    Provides embedded links to the dependant files on top of the web page and captures the content of the source code under it
+    Provides facility to expand or collapse class bodies, methods and global functions (of the source code) using JavaScript and page styling using CSS
+
 ///////////////////////////////////////////////////////////////////
 // Project#3:      Dependency-based Code Publisher               //
 //                 To create a Dependency-based Code Publisher   //
